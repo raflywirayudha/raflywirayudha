@@ -12,18 +12,18 @@
   
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 <div align="center">
   
-## 🌐 Socials:
+## 🌐 Connect with Me 🍬
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raflywirayudhaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rafly-wirayudha-619653239) 
 
 <div>
 
----
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=raflywirayudha&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
