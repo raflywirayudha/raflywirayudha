@@ -20,15 +20,16 @@
 
 <div>
 
+
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=raflywirayudha&icon=5&color=6)](https://visitcount.itsvg.in)
+![snake gif](https://github.com/raflywirayudha/raflywirayudha/blob/output/github-snake-dark.svg)
 
 <div>
 
 <div align="center">
 
-![snake gif](https://github.com/raflywirayudha/raflywirayudha/blob/output/github-snake-dark.svg)
+[![](https://visitcount.itsvg.in/api?id=raflywirayudha&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <div>
 
