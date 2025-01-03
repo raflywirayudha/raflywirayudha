@@ -1,7 +1,9 @@
 
 <div align="center">
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raflywirayudhaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rafly-wirayudha-619653239) 
+
 <div>
 
 # 💻 Tech Stack:
