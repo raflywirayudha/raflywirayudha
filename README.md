@@ -12,11 +12,15 @@
   
 </div>
 
+<div align="center">
+
 ## 🖥 Past Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raflywirayudha&repo=SITRACK-Frontend&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/raflywirayudha/SITRACK-Frontend) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raflywirayudha&repo=Mammal_Expert_System&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/raflywirayudha/Mammal_Expert_System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raflywirayudha&repo=SITRACK-Frontend&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/raflywirayudha/SITRACK-Frontend) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raflywirayudha&repo=Mammal_Expert_System&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/raflywirayudha/Mammal_Expert_System) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raflywirayudha&repo=Pengenalan_Pola_Uang_Koin&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/raflywirayudha/Pengenalan_Pola_Uang_Koin) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raflywirayudha&repo=FAKESTORE&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/raflywirayudha/FAKESTORE) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raflywirayudha&repo=CupangPedia&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/raflywirayudha/CupangPedia)
 
 &nbsp;
+
+<div>
 
 <div align="center">
   
