@@ -1,7 +1,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raflywirayudha&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raflywirayudha&theme=aura&hide_border=false" width="50%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raflywirayudha&theme=aura&hide_border=false" width="50%" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflywirayudha&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
