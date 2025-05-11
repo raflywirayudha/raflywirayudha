@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🎓 Informatics Engineering student at UIN Suska Riau, based in Pekanbaru, Riau<br><br>- 💻 Currently focusing on Frontend Development<br><br>- 🤖 Also exploring the world of Data Science and Artificial Intelligence</p>
+<p align="left">- 🎓 Informatics Engineering student at UIN Suska Riau, based in Pekanbaru, Riau<br>- 💻 Currently focusing on Frontend Development<br>- 🤖 Also exploring the world of Data Science and Artificial Intelligence</p>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">- ⚛️ Building interactive, responsive, and accessible UIs using React, TypeScript, and Tailwind CSS<br><br>- 📊 Learning data-driven development with Python, Pandas, and scikit-learn<br><br>- 🧠 Developing intelligent applications that provide meaningful user experiences</p>
+<p align="left">- ⚛️ Building interactive, responsive, and accessible UIs using React, TypeScript, and Tailwind CSS<br>- 📊 Learning data-driven development with Python, Pandas, and scikit-learn<br>- 🧠 Developing intelligent applications that provide meaningful user experiences</p>
 
 ###
 
