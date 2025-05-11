@@ -1,6 +1,6 @@
-<h1 align="left">Welcome to my profile! 😎</h1>
-
-###
+<div align="center">
+  <img src="https://github.com/raflywirayudha/raflywirayudha/blob/main/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+</div>
 
 <br clear="both">
 
@@ -18,7 +18,19 @@
 
 ###
 
-<p align="left">I'm an Informatics Engineering student at UIN Suska Riau, based in Pekanbaru, Riau. I'm currently focusing on Frontend Development while also exploring the world of Data Science and Artificial Intelligence.<br><br>I love building interactive, responsive, and accessible user interfaces using tools like React, TypeScript, and Tailwind CSS. At the same time, I'm learning about data-driven development using Python, Pandas, and scikit-learn, aiming to build intelligent applications that offer meaningful user experiences.<br><br>This GitHub is a place where I document my learning journey, share personal and collaborative projects, and contribute to open-source initiatives. I'm always looking for opportunities to grow and collaborate with others in the tech community.</p>
+<h3 align="left">Hi, I'm Muhammad Rafly Wirayudha 👋</h3>
+
+###
+
+<p align="left">- 🎓 Informatics Engineering student at UIN Suska Riau, based in Pekanbaru, Riau<br><br>- 💻 Currently focusing on Frontend Development<br><br>- 🤖 Also exploring the world of Data Science and Artificial Intelligence</p>
+
+###
+
+<h4 align="left">What I enjoy working with:</h4>
+
+###
+
+<p align="left">- ⚛️ Building interactive, responsive, and accessible UIs using React, TypeScript, and Tailwind CSS<br><br>- 📊 Learning data-driven development with Python, Pandas, and scikit-learn<br><br>- 🧠 Developing intelligent applications that provide meaningful user experiences</p>
 
 ###
 
@@ -29,30 +41,32 @@
 
 ###
 
+<p align="left">This GitHub is a place where I document my learning journey, share personal and collaborative projects, and contribute to open-source initiatives. I'm always looking for opportunities to grow and collaborate with others in the tech community.</p>
+
+###
+
 <h2 align="center">Tech Stack</h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="26" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="26" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="26" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="26" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="26" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="26" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="26" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="26" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="26" alt="python logo"  />
 </div>
 
 ###
@@ -62,10 +76,11 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
-</div>
+  
+## 🌐 Connect with Me 🍬
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raflywirayudhaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rafly-wirayudha-619653239) 
+
+<div>
 
 ###
 
