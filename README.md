@@ -41,9 +41,12 @@
 
 ###
 
-<p align="center">This GitHub is a place where I document my learning journey, share personal and collaborative projects, and contribute to open-source initiatives. I'm always looking for opportunities to grow and collaborate with others in the tech community.</p>
+<p align="left">This GitHub is a place where I document my learning journey, share personal and collaborative projects, and contribute to open-source initiatives. I'm always looking for opportunities to grow and collaborate with others in the tech community.</p>
 
 ###
+
+<br>
+<br>
 
 <h2 align="center">Tech Stack</h2>
 
@@ -70,6 +73,9 @@
 </div>
 
 ###
+
+<br>
+<br>
 
 <h2 align="center">Socials</h2>
 
