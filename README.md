@@ -5,15 +5,13 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://www.gramedia.com/blog/content/images/2024/07/sung-jin-woo-solo-leveling.gif"  />
+  <img height="270" src="https://upload-os-bbs.hoyolab.com/upload/2025/03/30/241153374/8d9ceed3b8b10c04a16e17ba9770e94a_8213712422943356343.gif"  />
 </div>
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/raflywirayudha/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=raflywirayudha.raflywirayudha&right_color=rebeccapurple&left_text=wiwok%20detok%20not%20onle%20tok%20detok%20"  />
 </div>
 
 ###
@@ -34,6 +32,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raflywirayudha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=outrun&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=raflywirayudha&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=outrun&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">This GitHub is a place where I document my learning journey, share personal and collaborative projects, and contribute to open-source initiatives. I'm always looking for opportunities to grow and collaborate with others in the tech community.</p>
+<p align="center">This GitHub is a place where I document my learning journey, share personal and collaborative projects, and contribute to open-source initiatives. I'm always looking for opportunities to grow and collaborate with others in the tech community.</p>
 
 ###
 
@@ -76,11 +76,13 @@
 ###
 
 <div align="center">
-  
-## 🌐 Connect with Me 🍬
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raflywirayudhaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rafly-wirayudha-619653239) 
-
-<div>
+  <a href="https://linkedin.com/in/muhammad-rafly-wirayudha-619653239" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/raflywirayudhaa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+</div>
 
 ###
 
