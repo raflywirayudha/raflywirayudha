@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://www.gramedia.com/blog/content/images/2024/07/sung-jin-woo-solo-leveling.gif"  />
+  <img height="350" src="https://www.gramedia.com/blog/content/images/2024/07/sung-jin-woo-solo-leveling.gif"  />
 </div>
 
 ###
