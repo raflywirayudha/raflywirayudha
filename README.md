@@ -4,8 +4,6 @@
 
 <br clear="both">
 
-![Header](./github-header-image.png)
-
 <div align="center">
   <img height="200" src="https://www.gramedia.com/blog/content/images/2024/07/sung-jin-woo-solo-leveling.gif"  />
 </div>
