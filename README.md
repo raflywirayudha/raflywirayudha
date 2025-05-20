@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=raflywirayudha.raflywirayudha&right_color=rebeccapurple&left_text=🫡%20"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=raflywirayudha.raflywirayudha&right_color=rebeccapurple&left_text=Dilihat%20"  />
 </div>
 
 ###
