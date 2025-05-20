@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=raflywirayudha.raflywirayudha&right_color=rebeccapurple&left_text=wiwok%20detok%20not%20onle%20tok%20detok%20"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=raflywirayudha.raflywirayudha&right_color=rebeccapurple&left_text=🫡%20"  />
 </div>
 
 ###
